@@ -1,0 +1,2 @@
+## Cara mundur versi pada git
+Pertama kita harus mengetahui id head dari commit sebelumnya, kita dapat melihat id head dengan git log --oneline, setelah kita mengetahui id head maka gunakan perintah git checkout id-head. Maka file akan kembali ke versi sebelumnya.
